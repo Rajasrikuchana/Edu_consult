@@ -1,0 +1,8 @@
+com\pol\api_gateway\config\JwtAuthorizationFilter.class
+com\pol\api_gateway\service\JwtService.class
+com\pol\api_gateway\config\CorsConfig.class
+com\pol\api_gateway\exception\GlobalExceptionHandler.class
+com\pol\api_gateway\exception\JwtExceptions.class
+com\pol\api_gateway\config\ObjectMapperConfig.class
+com\pol\api_gateway\config\GatewayConfig.class
+com\pol\api_gateway\ApiGatewayApplication.class

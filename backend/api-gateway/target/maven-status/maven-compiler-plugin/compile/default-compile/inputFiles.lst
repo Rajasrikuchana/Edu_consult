@@ -1,0 +1,8 @@
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\ApiGatewayApplication.java
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\config\CorsConfig.java
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\config\GatewayConfig.java
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\config\JwtAuthorizationFilter.java
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\config\ObjectMapperConfig.java
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\exception\GlobalExceptionHandler.java
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\exception\JwtExceptions.java
+E:\new\api-gateway\src\main\java\com\pol\api_gateway\service\JwtService.java
