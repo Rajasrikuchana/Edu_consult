@@ -52,7 +52,7 @@
 - **Resend** – Email delivery service
 
 
-## 📁 Folder Structure (Suggested)
+## 📁 Folder Structure 
 Edu_Consult/<br>
 ├── .idea/           # IDE settings (from IntelliJ IDEA) <br>
 ├── backend/         # Backend Spring Boot microservices <br>
