@@ -87,7 +87,6 @@ Edu_Consult/<br>
   <img width="1823" height="878" alt="image" src="https://github.com/user-attachments/assets/a9dc40d5-b46b-4785-84a6-18a0aff41e2d" />
 
 
----
 
 ## ⚙️ Getting Started
 
@@ -113,17 +112,69 @@ Edu_Consult/<br>
    mvn spring-boot:run
    
 3. **Set Up MySQL Databases**
+   
    Create a database schema
    ```bash
    CREATE DATABASE database_name;
 
-4.   Start the Frontend
-Navigate to the frontend folder and run:
+4. **Start the Frontend**
 
-```bash
-cd frontend
-npm install
-npm run dev
+   Navigate to the frontend folder and run:
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+
+5. **Test the application**
+
+   ✅ Register as student / consultant / admin
+
+   🛒 Browse dashboard and test course/enrollment flows
+
+   💳 Test payments using Razorpay test keys
+
+   ✉️ Trigger email notifications with Resend
+
+6. **📌 Future Enhancements**
+
+   
+   🔎 AI-driven course and consultant recommendations
+
+   🌙 Dark/light mode toggle
+
+   📊 Analytics for admins and consultants
+
+   📂 Resume upload & document management
+
+   🔍 Advanced search and filter across blogs/courses
 
 
-Access the app at: http://localhost:5173
+
+## 👩‍💻 Developed By
+
+**Rajasri Kuchana**  
+Final Year Computer Science Engineering Student  
+Passionate about full-stack development, scalable systems, and education technology.  
+
+🔗 [GitHub](https://github.com/Rajasrikuchana)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rajasrikuchana/) 
+
+
+
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute for personal or educational purposes.
+
+```text
+MIT License
+
+Copyright (c) 2024 Rajasri
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions...
