@@ -16,17 +16,24 @@ import java.util.UUID;
 public class CategoryController {
 
     private final CategoryService categoryService;
+
     public CategoryController(CategoryService categoryService) {
         this.categoryService = categoryService;
     }
 
+    @PostMapping
+    public ResponseEntity<CategoryResponseDTO> createCategory(@Valid @RequestBody CategoryRequestDTO categoryRequestDTO) {
+        return ResponseEntity.ok(categoryService.createCategory(categoryRequestDTO));
+    }
+
     @GetMapping
-    public ResponseEntity<List<CategoryResponseDTO>> getAllCategories(){
+    public ResponseEntity<List<CategoryResponseDTO>> getAllCategories() {
         return ResponseEntity.ok(categoryService.getAllCategories());
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Category> getCategoryById(@PathVariable UUID id){
+    public ResponseEntity<Category> getCategoryById(@PathVariable UUID id) {
         return ResponseEntity.ok(categoryService.getCategoryById(id));
     }
 }
+

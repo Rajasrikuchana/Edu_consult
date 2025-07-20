@@ -43,7 +43,9 @@ public class Category {
     @PreUpdate
     protected void generateSlug() {
         if (this.name != null) {
-            this.slug = this.name.toLowerCase().replace(" ", "-").strip();
+            this.slug = this.name.toLowerCase()
+                    .replace(" ", "-")
+                    .trim(); // Java 8 compatible
         }
     }
 
