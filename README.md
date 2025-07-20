@@ -65,28 +65,35 @@ Edu_Consult/<br>
 
 ## 🖼️ UI Preview
 
-- Home
-<img width="1822" height="881" alt="image" src="https://github.com/user-attachments/assets/7b448a68-ea66-4ad8-819b-d73ac1a36881" />
+- **Home**
+  <img width="1899" height="980" alt="image" src="https://github.com/user-attachments/assets/0a9c11d5-e0d4-43c8-90c4-14298441e446" />
 
 
-- Admin Portal
-  <img width="1823" height="878" alt="image" src="https://github.com/user-attachments/assets/05e2f5fa-52f1-4058-a3e7-c861797478e5" />
+- **Admin portal**
+  <img width="1894" height="881" alt="image" src="https://github.com/user-attachments/assets/ff4dc890-27d2-4b72-a19e-5fdf6af4a944" />
+ 
+  <img width="1915" height="964" alt="image" src="https://github.com/user-attachments/assets/10265b45-5f0d-4213-b5ea-134977722233" />
+  <img width="1907" height="926" alt="image" src="https://github.com/user-attachments/assets/22a0eeca-b1d0-4c64-adcd-7107dac9b89c" />
 
-- User portal
+
+
+- **User portal**
   <img width="1828" height="878" alt="image" src="https://github.com/user-attachments/assets/0b45894b-2562-4d60-b977-b220db6f3980" />
 
 
 
   
-- Registration/Login
+- **Registration/Login**
   <img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/915cb8a8-b39f-412f-9d3f-547250415499" />
   <img width="1910" height="1002" alt="image" src="https://github.com/user-attachments/assets/0ddf247b-6c9d-4065-80bc-f512e298d9b6" />
 
 
-- Course Page
-  <img width="1823" height="878" alt="image" src="https://github.com/user-attachments/assets/a9dc40d5-b46b-4785-84a6-18a0aff41e2d" />
+- **Course Page**
+  <img width="1882" height="884" alt="image" src="https://github.com/user-attachments/assets/2713c194-4f7a-4ad9-a785-155f3dc5e380" />
 
 
+- **About Us**
+  <img width="1899" height="888" alt="image" src="https://github.com/user-attachments/assets/faddedee-fc26-4ec6-8880-648dba80c0dc" />
 
 ## ⚙️ Getting Started
 
